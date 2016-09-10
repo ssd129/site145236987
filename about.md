@@ -7,7 +7,7 @@ permalink: /about/
 
 
 ### EDUCATION
-Present – M.Sc., Computer Science, Aristotle University of Thessaloniki                                                         
+Present – M.Sc., Computer Science, Aristotle University of Thessaloniki        <br />                                                  
 
 2015 – Dipl. Eng., Production Engineering and Management, Democritus University of Thrace 
 
