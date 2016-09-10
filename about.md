@@ -6,14 +6,12 @@ permalink: /about/
 
 
 
-### More Information
-
-##EDUCATION
+### EDUCATION
 Present – M.Sc., Computer Science, Aristotle University of Thessaloniki
 2015 – Dipl. Eng., Production Engineering and Management, Democritus University of Thrace 
 
-##RESEARCH INTERESTS
-Scientific Computing - Operations Research - Information Systems
+### RESEARCH INTERESTS
+Industrial Informatics - Operations Research - Computational Intelligence
 
 
 ### Contact me
