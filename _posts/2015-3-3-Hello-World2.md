@@ -8,7 +8,6 @@ The Project Scheduling Problem (PSP) consists in deciding who does what during t
 
 ![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 For more instructions head over to the [Genetic_Algorithm_for_Scheduling Now repository](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling) on GitHub.
 
