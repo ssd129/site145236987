@@ -16,4 +16,4 @@ Industrial Informatics - Operations Research - Computational Intelligence
 
 
 ### CONTACT
-[stavros.kalaouzis@yahoo.gr](mailto: stavros.kalaouzis@yahoo.gr)
+[stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)
