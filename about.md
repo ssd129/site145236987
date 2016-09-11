@@ -15,6 +15,5 @@ Present – M.Sc., Computer Science       <br />
 Industrial Informatics - Operations Research - Computational Intelligence
 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### CONTACT
+[stavros.kalaouzis at yahoo](mailto: )
