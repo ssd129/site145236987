@@ -1,17 +1,21 @@
 ---
 layout: page
-title: #About
+title: About
 permalink: /about/
 ---
 
-### EDUCATION
-Present – M.Sc., Computer Science       <br />                                                  
 
+### Contact
+[stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)
+
+### Education
+Present – M.Sc., Computer Science       <br />                                                  
 2015 – Dipl. Eng., Production Engineering and Management
 
-### RESEARCH INTERESTS
+### Biography 
+
+
+### Research Interests
 Industrial Informatics - Operations Research - Computational Intelligence
 
 
-### CONTACT
-[stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)
