@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 
+![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
+
+
 ### Contact
 [stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)
 
