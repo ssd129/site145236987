@@ -17,8 +17,9 @@ Present – M.Sc., Computer Science       <br />
 2015 – Dipl. Eng., Production Engineering and Management
 
 ### BIOGRAPHY 
+I was born in Thessaloniki on 31 July 1992 and I brought up in Alexandria. During the year 2010 I moved to Xanthi for studies in Industrial Engineering at Democritus University of Thrace and I received my Diploma(M.Eng) in 2015. Right now I have returned in my native city, to fulfill Postgraduate (M.Sc) studies in Informatics at Aristotle University of Thessaloniki. 
 
 ### RESEARCH INTERESTS                                                  
-Industrial Informatics - Operations Research - Computational Intelligence 
+Business Informatics - Computational Intelligence 
 
 
