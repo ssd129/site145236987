@@ -9,17 +9,17 @@ permalink: /about/
  ![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
 
 
-### Contact                                                      
+### CONTACT                                                  
 [stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)  
 
-### Education
+### EDUCATION
 Present – M.Sc., Computer Science       <br />                                                  
 2015 – Dipl. Eng., Production Engineering and Management
 
-### Biography 
+### BIOGRAPHY 
 
 
-### Research Interests                                                  
+### RESEARCH INTERESTS                                                  
 Industrial Informatics - Operations Research - Computational Intelligence 
 
 
