@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: #About
 permalink: /about/
 ---
-
-
 
 ### EDUCATION
 Present – M.Sc., Computer Science       <br />                                                  
