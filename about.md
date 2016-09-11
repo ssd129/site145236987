@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
- ![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
+ ![psp](https://github.com/skalaouzis/skalaouzis.github.io/blob/master/images/8474aa_99a277b3d50454dda6f60619e92f07ec.png)
 
 
 ### CONTACT                                                  
