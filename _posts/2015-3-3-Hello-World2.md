@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Yrunning!
+title: Genetic Algorithm for Solving Software Project Scheduling Problems.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The Project Scheduling Problem (PSP) consists in deciding who does what during the software project lifetime. It is related to the Resource-Constrained Project Scheduling (RCPS), an existing problem very popular in the literature. However, the problem defined here includes the concept of employee with salary and personal skills, also able of performing several tasks in a normal working day.
+
+
+![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For more instructions head over to the [Genetic_Algorithm_for_Scheduling Now repository](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling) on GitHub.
 
