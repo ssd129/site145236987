@@ -9,5 +9,6 @@ The Project Scheduling Problem (PSP) consists in deciding who does what during t
 ![psp](https://github.com/skalaouzis/skalaouzis.github.io/blob/master/images/Thesis_Poster.pdf)
 
 
+
 For more instructions head over to the [Genetic_Algorithm_for_Scheduling Now repository](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling) on GitHub.
 
