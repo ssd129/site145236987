@@ -13,7 +13,7 @@ skype: [kalaouzis.stavros](skype:kalaouzis.stavros)
 ![psp](https://raw.githubusercontent.com/skalaouzis/skalaouzis.github.io/master/images/asdasdasdas.png)
 
 ### EDUCATION
-M.Sc., Computer Science - Present       <br />                                                  
+M.Sc., Computer Science - Present       </>                                                  
 Dipl.Eng., Production Engineering and Management - 2015
 
 ### BIOGRAPHY 
