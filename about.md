@@ -13,13 +13,13 @@ skype: [kalaouzis.stavros](skype:kalaouzis.stavros)
 ![psp](https://raw.githubusercontent.com/skalaouzis/skalaouzis.github.io/master/images/asdasdasdas.png)
 
 ### EDUCATION
-Present – M.Sc., Computer Science       <br />                                                  
-2015 – Dipl. Eng., Production Engineering and Management
+M.Sc., Computer Science - Present       <br />                                                  
+Dipl.-Eng., Production Engineering and Management - 2015
 
 ### BIOGRAPHY 
-I was born in Thessaloniki on 31 July 1992 and I brought up in Alexandria. During the year 2010 I moved to Xanthi for studies in Industrial Engineering at Democritus University of Thrace and I received my Diploma(M.Eng) in 2015. Right now I have returned in my native city, to fulfill Postgraduate (M.Sc) studies in Informatics at Aristotle University of Thessaloniki. 
+I was born in Thessaloniki on 31 July 1992 and I brought up in Alexandria. During the year 2010 I moved to Xanthi for studies in Industrial Engineering at Democritus University of Thrace and I received my Diploma(M.Eng) in 2015. Right now I have returned in my native city, to fulfill Postgraduate studies in Informatics at Aristotle University of Thessaloniki. 
 
 ### RESEARCH INTERESTS                                                  
-Business Informatics - Computational Intelligence 
+Computational Intelligence 
 
 
