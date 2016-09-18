@@ -9,6 +9,5 @@ Particle swarm optimization (PSO) is a computational method for multi-parameter 
 [Particle Swarm Optimization Algorithm](https://www.youtube.com/watch?v=HT15dq9Af7Q)
 
 
-
-A very simple PSO codes can be obtained with an example in MATLAB environment to this [link](https://www.researchgate.net/publication/296636431_Codes_in_MATLAB_for_Particle_Swarm_Optimization).
+A very simple PSO code can be obtained with an example in MATLAB environment to this [link](http://www.mathworks.com/help/gads/particle-swarm-optimization-algorithm.html).
 
