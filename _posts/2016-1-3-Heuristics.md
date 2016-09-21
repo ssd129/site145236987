@@ -27,19 +27,22 @@ To solve problems, researchers may use algorithms that terminate in a finite num
 
 ![Different classifications of metaheuristics](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Metaheuristics_classification.svg/630px-Metaheuristics_classification.svg.png)
 
-Particle swarm optimization (PSO) is a computational method for multi-parameter optimization which also uses population-based approach. A population (swarm) of candidate solutions (particles) moves in the search space, and the movement of the particles is influenced both by their own best known position and swarm's global best known position. PSO is often more computationally efficient especially in unconstrained problems with continuous variables.
+* Particle Swarm Optimization (PSO) is a computational method for multi-parameter optimization which also uses population-based approach. A population (swarm) of candidate solutions (particles) moves in the search space, and the movement of the particles is influenced both by their own best known position and swarm's global best known position. PSO is often more computationally efficient especially in unconstrained problems with continuous variables.
 
 [Particle Swarm Optimization Algorithm](https://www.youtube.com/watch?v=HT15dq9Af7Q)
 
 A very simple PSO code can be obtained with an example in MATLAB environment to this [link](http://www.mathworks.com/help/gads/particle-swarm-optimization-algorithm.html).
 
-Ant Colony Optimization (ACO) studies artificial systems that take inspiration from the behavior of real ant colonies and which are used to solve constrained problems with discrete variables optimization problems (which can be reduced to finding good paths through graphs).
+* Ant Colony Optimization (ACO) studies artificial systems that take inspiration from the behavior of real ant colonies and which are used to solve constrained problems with discrete variables optimization problems (which can be reduced to finding good paths through graphs).
 
 [Ant Colony Optimization Algorithm](https://www.youtube.com/watch?v=D58nLNLkb0I)
 
 A very simple ACO code can be obtained with an example in MATLAB environment to this [link](http://www.aco-metaheuristic.org/aco-code/).
 
-constrained problems with continuous variables.
+* Nondominated Sorting Genetic Algorithm II (NSGA II) is a fast and elitist multiobjective genetic algorithm for constrained problems with continuous variables.
+
+A very simple NSGA II code can be obtained with an example in MATLAB environment to this [link](https://www.mathworks.com/matlabcentral/fileexchange/49806-matlab-code-for-constrained-nsga-ii-dr-s-baskar--s-tamilselvi-and-p-r-varshini).
+
 unconstrained problems with discrete variables.
 
 
