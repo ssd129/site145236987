@@ -43,7 +43,5 @@ A very simple ACO code can be obtained with an example in MATLAB environment to 
 
 A very simple NSGA II code can be obtained with an example in MATLAB environment to this [link](https://www.mathworks.com/matlabcentral/fileexchange/49806-matlab-code-for-constrained-nsga-ii-dr-s-baskar--s-tamilselvi-and-p-r-varshini).
 
-unconstrained problems with discrete variables.
-
 
 
