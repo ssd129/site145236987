@@ -7,7 +7,7 @@ permalink: /about/
 ### CONTACT                                                  
 mail: [stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)  
 skype: [kalaouzis.stavros](skype:kalaouzis.stavros)
- 
+CV: []() 
  <br />   
  
 ![psp](https://raw.githubusercontent.com/skalaouzis/skalaouzis.github.io/master/images/asdasdasdas.png)
