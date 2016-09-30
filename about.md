@@ -7,7 +7,7 @@ permalink: /about/
 ### CONTACT                                                  
 mail: [stavros.kalaouzis@yahoo.gr](mailto:stavros.kalaouzis@yahoo.gr)  
 skype: [kalaouzis.stavros](skype:kalaouzis.stavros)                                                                    
-CV: [English](https://github.com/skalaouzis/skalaouzis.github.io/blob/master/images/Academic_CV_and_Cover_Letter___Simple%20(2).1-2.pdf) 
+CV: [English](https://raw.githubusercontent.com/skalaouzis/skalaouzis.github.io/master/images/merge_from_ofoct%20(1).jpg) 
 <br />   
  
 ![psp](https://raw.githubusercontent.com/skalaouzis/skalaouzis.github.io/master/images/asdasdasdas.png)
